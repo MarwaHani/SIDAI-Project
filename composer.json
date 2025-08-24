@@ -23,7 +23,7 @@
             "App\\": "app/"
         },
         "classmap": [
-            "database/factories"
+
         ]
     },
     "autoload-dev": {
